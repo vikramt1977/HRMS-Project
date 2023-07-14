@@ -3989,11 +3989,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\RahulC\\source\\repos\\EmployeeManagement\\EmployeeManagement.csproj",
+      "projectUniqueName": "C:\\Users\\RahulC\\source\\repos\\HRMS-Project\\EmployeeManagement\\EmployeeManagement.csproj",
       "projectName": "EmployeeManagement",
-      "projectPath": "C:\\Users\\RahulC\\source\\repos\\EmployeeManagement\\EmployeeManagement.csproj",
+      "projectPath": "C:\\Users\\RahulC\\source\\repos\\HRMS-Project\\EmployeeManagement\\EmployeeManagement.csproj",
       "packagesPath": "C:\\Users\\RahulC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\RahulC\\source\\repos\\EmployeeManagement\\obj\\",
+      "outputPath": "C:\\Users\\RahulC\\source\\repos\\HRMS-Project\\EmployeeManagement\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
