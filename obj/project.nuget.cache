@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1VcGdLmbzu/0yX2RiigAA0gZRQ8Ua53bAOxQ1X1Z9+e4pvg4BWLlwPzVrmnBFhLVsVCEUg7rsbip7gbAG+l+rw==",
+  "dgSpecHash": "h7xA3CTwx2T5gLBPZQi+4SLnB0KTIGHWX1PQ4J+KraPhlHeY/8BqxMW93PSyKs/9Y8vwLCS0pgtz9RKy4zaivw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\RahulC\\source\\repos\\HRMS-Project\\EmployeeManagement\\EmployeeManagement.csproj",
+  "projectFilePath": "C:\\Users\\RahulC\\Source\\Repos\\HRMS-Project\\EmployeeHrmsManagement\\EmployeeManagement.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\RahulC\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\RahulC\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
